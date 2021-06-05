@@ -1,0 +1,10 @@
+C:\Users\cdh6254\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\cdh6254\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\cdh6254\source\repos\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\cdh6254\source\repos\CardGame\CardGame\obj\Debug\CardGame.pdb
